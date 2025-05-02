@@ -1,4 +1,4 @@
-# recomendador_de_produtos_no_terminal
+# Recomendador_de_Produtos_no_Terminal
 Sistema de recomendação de produtos baseado em similaridade textual (TF-IDF e Levenshtein), tamanho físico e atributos como grupo e marca. Ideal para encontrar itens similares em catálogos ou sistemas de vendas a partir de um SKU consultado.
 
 Este projeto é um script Python que realiza **recomendações de produtos similares** com base em **similaridade textual** (TF-IDF + Levenshtein), além de atributos como **grupo**, **marca** e **tamanho físico** extraído do nome. É ideal para auxiliar na identificação de produtos substitutos ou similares dentro de uma base de dados.
