@@ -36,16 +36,3 @@ SKU;Nome;Marca;Grupo;GrupoPai;Venda
 1003;Adaptador USB-C para HDMI;Apple;102;400000;80
 1004;Cabo HDMI 3m;Samsung;101;550000;90
 
-### Exemplo de Uso: ###
-
-=== RECOMENDADOR DE PRODUTOS ===
-Digite o SKU do produto (ou 'sair' para encerrar): 1001
-
-Produto Consultado:
-SKU: 1001 | Nome: Cabo HDMI 2m | Venda: 120
-========================================================================================================
-Recomendações aprimoradas:
-SKU: 1002 | Nome: Cabo HDMI 1.5m | Venda: 100
-SKU: 1004 | Nome: Cabo HDMI 3m | Venda: 90
-...
-========================================================================================================
