@@ -36,3 +36,4 @@ SKU;Nome;Marca;Grupo;GrupoPai;Venda
 1003;Adaptador USB-C para HDMI;Apple;102;400000;80
 1004;Cabo HDMI 3m;Samsung;101;550000;90
 
+Desenvolvido por JEAN ALEX DA SILVA.
